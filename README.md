@@ -1,6 +1,7 @@
 # OpenPix Flutter Integration Example
 
-A new Flutter project.
+Pix Example Using the [OpenPix](https://openpix.com.br/) Platform. [OpenPix Developers](https://developers.openpix.com.br/)
+
 
 How to use
 - Install [Flutter](https://flutter.io/get-started/) and validate its installation with `flutter doctor`
