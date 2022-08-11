@@ -1,16 +1,8 @@
-# openpix_flutter
+# OpenPix Flutter Integration Example
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+How to use
+- Install [Flutter](https://flutter.io/get-started/) and validate its installation with `flutter doctor`
+- Clone this repository with `git clone git@github.com:Daminhao/openpix_flutter_demo.git`
+- Run the app with `cd openpix_flutter_demo && flutter run`
