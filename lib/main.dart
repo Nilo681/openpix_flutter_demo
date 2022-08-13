@@ -7,7 +7,7 @@ import 'package:qr_flutter/qr_flutter.dart';
 
 Future<Charge> fetchCharge() async {
   final response = await http.get(
-      Uri.parse('https://mocki.io/v1/b5f4d099-37e3-4a01-8e12-8c8fbae8931a'));
+      Uri.parse('https://mocki.io/v1/f5da9654-d587-4386-9ed6-1bd90806eb89'));
 
   if (response.statusCode == 200) {
     // If the server did return a 200 OK response,
