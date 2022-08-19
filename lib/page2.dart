@@ -126,7 +126,7 @@ class _Page2State extends State<Page2> {
                         Navigator.pop(context);
                       },
                       style: ElevatedButton.styleFrom(primary: Colors.indigo),
-                      child: const Text('Voltar a pagina inicial'))
+                      child: const Text('Return to home page'))
                 ])));
   }
 }

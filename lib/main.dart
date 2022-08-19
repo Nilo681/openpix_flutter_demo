@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
       ),
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('OpenPix Exemple'),
+          title: const Text('OpenPix example'),
         ),
         body: const PageOne(),
       ),
